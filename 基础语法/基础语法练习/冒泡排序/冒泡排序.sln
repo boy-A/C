@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "冒泡排序", "冒泡排序.vcxproj", "{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Debug|x64.ActiveCfg = Debug|x64
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Debug|x64.Build.0 = Debug|x64
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Debug|x86.Build.0 = Debug|Win32
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Release|x64.ActiveCfg = Release|x64
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Release|x64.Build.0 = Release|x64
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Release|x86.ActiveCfg = Release|Win32
+		{1DC655A4-851E-4BC7-AF75-1E15EFC249AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9448D6-4B6D-4F9F-A1CD-749060A1C174}
+	EndGlobalSection
+EndGlobal
