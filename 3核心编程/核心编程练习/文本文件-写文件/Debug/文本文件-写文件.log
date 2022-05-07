@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(文本文件-写文件.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  文本文件-读写文件.cpp
+  文本文件-写文件.vcxproj -> G:\C++\核心编程\核心编程练习\文本文件-写文件\Debug\文本文件-读写文件.exe
